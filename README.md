@@ -1,3 +1,19 @@
+
+Understanding the Dataset (mpg.csv)
+
+The mpg.csv dataset contains information about fuel efficiency (miles per gallon - MPG) of various cars, along with other attributes:
+
+mpg: Miles per gallon (continuous, target variable)
+cylinders: Number of cylinders in the engine (discrete)
+displacement: Engine displacement (continuous)
+horsepower: Engine horsepower (continuous)
+weight: Vehicle weight (continuous)
+acceleration: Vehicle acceleration (continuous)
+model_year: Year the model was released (discrete)
+origin: Origin of the car (categorical: 1=USA, 2=Europe, 3=Japan)
+name: Car model name (categorical)
+
+
 Fuel Efficiency Analysis and Factors:
 
 Project Goal: Understand which factors most significantly influence a car's fuel efficiency (MPG).
